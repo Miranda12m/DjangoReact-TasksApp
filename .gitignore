@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+
+# SQLite database files
+*.sqlite3
+
+# Media files
+media/
+
+# Node.js modules
+Frontend/node_modules/
+
+# Build artifacts for React.js (e.g., build/ or dist/ if applicable)
+Frontend/build/
+Frontend/dist/
+
+# .env file for React.js (if you use it for environment variables)
+Frontend/.env
+
+# Ignore React.js dependency files (package-lock.json or yarn.lock)
+Frontend/package-lock.json
+Frontend/yarn.lock

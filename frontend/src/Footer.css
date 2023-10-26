@@ -1,0 +1,6 @@
+.footer {
+  position: fixed; /* Establece la posición fija para que el footer esté siempre en la parte inferior */
+  left: 0;
+  bottom: 0;
+  width: 100%; 
+}
