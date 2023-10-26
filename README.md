@@ -64,7 +64,7 @@ To run this application locally, you need to set up and run both apps. Follow th
 - Configure the `axios.get` call in "Frontend/src/api/tasks.api.js."
 - Install dependencies with `npm install` and run the development server with `npm run dev`.
 
-1. axios setup
+1. axios setup ('YOUR LOCAL HOST'/tasks/api/s1/tasks/)
 ![App Screenshot2](ss/ss08.png)
 
 ## Contact
